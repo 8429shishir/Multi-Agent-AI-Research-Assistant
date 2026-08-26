@@ -27,3 +27,4 @@ fastapi>=0.100.0
 uvicorn>=0.23.0
 pydantic>=2.0.0
 cors>=1.0.1
+rich>=14.0.0
